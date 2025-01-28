@@ -16,6 +16,6 @@ Para conseguir solucionar o problema do cliente, deve-se explorar a base de dado
 
 
 ## Solução
-- Criei o banco de dados conforme o [schema](https://github.com/waltercrastobr/CaseV360/blob/main/schema.png) sugerido. O código fonte dessa criação está armazenado aqui
-- Criei um Colab para a Análise dos Dados. O código está aqui.
-- Criei uma Visualização em Power BI para poder vizualizar métricas importantes do negócio. O dashboard está aqui.
+- Criei o banco de dados conforme o [schema](https://github.com/waltercrastobr/CaseV360/blob/main/schema.png) sugerido. O código fonte dessa criação está armazenado [aqui]() e a querie feita para a análise [aqui]().
+- Criei um Colab para a Análise dos Dados. O código está [aqui]().
+- Criei uma Visualização em Power BI para poder vizualizar métricas importantes do negócio. O dashboard está [aqui]().
