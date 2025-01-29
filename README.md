@@ -19,6 +19,8 @@ Para conseguir solucionar o problema do cliente, deve-se explorar a base de dado
 - Criei o banco de dados conforme o [schema](https://github.com/waltercrastobr/CaseV360/blob/main/schema.png) sugerido. O código fonte dessa criação está armazenado [aqui](https://github.com/waltercrastobr/CaseV360/tree/main/banco_de_dados) e a querie feita para a análise [aqui](https://github.com/waltercrastobr/CaseV360/tree/main/querie).
 - Criei um Colab para a Análise dos Dados. O código está [aqui](https://github.com/waltercrastobr/CaseV360/blob/main/v360.ipynb).
 - Criei uma Visualização em Power BI para poder vizualizar métricas importantes do negócio. O dashboard está [aqui](https://github.com/waltercrastobr/CaseV360/blob/main/dashboard_v360.pbix).
+- Dashboard:![image](https://github.com/user-attachments/assets/267deb26-ad51-45f6-8261-aedb5461fbcb)
+
 
 - OBS: O drive para armazenamento está localizado nesse [link](https://drive.google.com/drive/folders/19db7OnBCcvSyst5hJgsNfIMSqK5uTR2D?usp=sharing).
 
